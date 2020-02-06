@@ -1,0 +1,12 @@
+{
+    "url_monit": {
+        "env1": [
+            "http://13.227.101.87",
+            "http://13.227.101.87:80"
+        ],
+        "env2": [
+            "http://www.concrete.com.br",
+            "http://www.concrete.com.br:80"
+        ]
+    }
+}
